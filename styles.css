@@ -1,0 +1,231 @@
+/* Fonts Used: */
+
+/* font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Acme', sans-serif; */
+
+
+
+body {
+background-color: white;
+padding: 0px;
+padding-bottom: 50px;
+}
+
+h1 {
+  font-family: 'Noto Serif', serif;
+  font-size: 1.5em;
+  color: #222831;
+}
+
+h3 {
+  font-family: 'Noto Serif', serif;
+  padding-bottom: .25em;
+  color: #222831;
+}
+
+p {
+  font-family: 'Noto Serif', serif;
+  font-size: 1em;
+  color: #222831;
+}
+
+a {
+  font-family: 'Noto Serif', serif;
+  font-size: 1.25em;
+  color: #222831;
+}
+
+u {
+  text-decoration: none;
+  border-bottom: 2px solid #393e46;
+}
+
+.topdiv {
+  background-color: #c8e4fe;
+}
+
+.head-link {
+  font-family: 'Noto Serif', serif;
+  font-size: 1.5em;
+  color: #222831;
+
+}
+
+.ulwork {
+  padding-top: 15px;
+}
+
+
+
+.picofself {
+  width: 200px;
+  height: 200px;
+  margin: 25px;
+  background: #c8e4fe;
+  border-radius: 50%;
+}
+
+/* Testimonial Section */
+
+.colored-section {
+  background-color: #EEEEEE;
+  color: #222831;
+}
+
+#testimonials {
+  background-color: #c8e4fe;
+}
+
+.testimonial-text {
+  font-family: 'Noto Serif', serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carsig {
+  text-align: right;
+}
+
+
+
+
+/* First Horizontal Line */
+
+.hr1 {
+  border: none;
+  border-bottom: solid;
+  border-color: #393e46;
+  Border-width: 3px;
+    margin-top: .25em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hr2 {
+  display: block;
+  margin-top: 1.75m;
+  margin-bottom: .75em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 3px;
+  margin-left: 200px;
+}
+
+.hr3 {
+  display: block;
+  margin-top: 2.5em;
+  margin-bottom: .75em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 3px;
+}
+
+/* Fixed Table with Links */
+
+.linktable {
+  position: absolute;
+  width: 240px;
+  text-align: left;
+  padding-top: 290px;
+  padding-left: 15px;
+}
+
+.dllist {
+  margin-bottom: 20px;
+  }
+
+.dtlist {
+  padding-bottom: 20px;
+    }
+
+
+
+.introsentence {
+  position: relative;
+  margin-left: 250px;
+  font-family: 'Noto Serif', serif;
+  font-size: 1em;
+  padding-top: 290px;
+  padding-right: 50px
+}
+
+.paralink {
+  font-size: 1em;
+  font-style: italic;
+  color: blue;
+}
+
+/* Work History and Below Sections */
+
+.sections {
+  position: relative;
+  margin-left: 20px;
+  font-family: 'Noto Serif', serif;
+  font-size: 1em;
+}
+
+.skillstable {
+  width: 1100px;
+  margin-left: 10px
+}
+
+.tablerow {
+  width: auto;
+  height: 35px;
+}
+
+.comtable {
+  width: 300px;
+}
+
+.comlist{
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.tablerowwork {
+  width: 700px;
+  height: 5px;
+}
+
+.rolecomp {
+  height: 1em;
+}
+
+.roletitle {
+  height: 2em;
+  vertical-align: top;
+}
+
+.rolepara{
+  height: 1em;
+}
+
+.thhistory {
+    height: 1em;
+    font-weight: normal;
+  }
+}
+
+.edhead {
+
+}
+
+.edcourse {
+  vertical-align: top;
+  height: 3em;
+}
+
+.pinline {
+  display: inline-block;
+}
